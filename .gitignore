@@ -1,0 +1,6 @@
+lib/__pycache__/*
+
+live/*/packet
+live/*/seedling
+
+vault/*
