@@ -64,4 +64,3 @@ for seed in seeds:
         path = f'{seedTarget}/{filename}'
         cv2.imwrite( path, cvImg )
         print(f'{path} saved.')
-        
